@@ -1,0 +1,1 @@
+The B2.txt file is inside b2 branch
